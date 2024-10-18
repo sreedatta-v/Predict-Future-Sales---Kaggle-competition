@@ -3,17 +3,17 @@ In this competition I will work with a challenging time-series dataset consistin
 
 ## Table of Contents 
 
-1. Introductions
-2. Importing Libraries
-3. Loading Datasets
-4. Overview of Datasets
-5. Merging Dataframes
-6. Data Manipulations
-7. Exploratory Data Analysis
-8. Data Cleaning
-9. Model Deployment
-10. Model Evaluations
-11. Results Submissions
+1. [Introductions](https://github.com/sreedatta-v/Predict-Future-Sales---Kaggle-competition/blob/main/README.md)
+2. [Importing Libraries](https://github.com/sreedatta-v/Predict-Future-Sales---Kaggle-competition/blob/main/README.md)
+3. [Loading Datasets](https://github.com/sreedatta-v/Predict-Future-Sales---Kaggle-competition/blob/main/README.md)
+4. [Overview of Datasets](https://github.com/sreedatta-v/Predict-Future-Sales---Kaggle-competition/blob/main/README.md)
+5. [Merging Dataframes](https://github.com/sreedatta-v/Predict-Future-Sales---Kaggle-competition/blob/main/README.md)
+6. [Data Manipulations](https://github.com/sreedatta-v/Predict-Future-Sales---Kaggle-competition/blob/main/README.md)
+7. [Exploratory Data Analysis](https://github.com/sreedatta-v/Predict-Future-Sales---Kaggle-competition/blob/main/README.md)
+8. [Data Cleaning](https://github.com/sreedatta-v/Predict-Future-Sales---Kaggle-competition/blob/main/README.md)
+9. [Model Deployment](https://github.com/sreedatta-v/Predict-Future-Sales---Kaggle-competition/blob/main/README.md)
+10. [Model Evaluations](https://github.com/sreedatta-v/Predict-Future-Sales---Kaggle-competition/blob/main/README.md)
+11. [Results Submissions](https://github.com/sreedatta-v/Predict-Future-Sales---Kaggle-competition/blob/main/README.md)
 
 ## Description ( About Challange ) 
 In this competition you will work with a challenging time-series dataset consisting of daily sales data, kindly provided by one of the largest Russian software firms - 1C Company.   
