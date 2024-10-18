@@ -186,7 +186,7 @@ cleaned_item_catg <- items[!items$item_id %in% Outliers1,]
 
 ## Data Merging
 
---> It involves in merging two or more dataframees into single dataframe.  
+--> It involves in merging two or more data frames into a single data frame.  
 
 It is broadly done using Joins: 
 1. Inner Join
@@ -194,7 +194,7 @@ It is broadly done using Joins:
 3. Left Join
 4. Right Join
 
-<code> abs </code> : Convert all the negative values in a feature to Non-negative values. 
+<code> abs </code>: Convert all the negative values in a feature to Non-negative values. 
 
 ```
 Merged_clean_Sales <- left_join(cleaned_sales_data,cleaned_item_catg,by="item_id")
@@ -213,3 +213,17 @@ test <- left_join(test,items,by="item_id")
 test <- left_join(test,item_categories,by="item_category_id")
 head(Merged_clean_Sales,5)
 ```
+
+## Data Manipulation 
+
+```
+#Data Manipulation 
+item_cnt_days <- abs(sales_data) 
+item_cnt_days[2935849]
+
+sales_data$item_price <- abs(sales_data$item_price) 
+
+dates_as_date <- as.Date(date_month, format = "%d.%m.%Y")
+months <- format(dates_as_date, format = "%m")
+```
+
